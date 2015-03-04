@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC241: Introduction to Public Administration"
+course_description: "A detailed introduction to the role of the public bureaucracy in American society and the interplay of politics and public administration at the national, state, and local levels. Topics include ethics, organization theory and behavior, public policy formation, public management, administrative reform, and intergovernmental relations."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Public Budgeting** <span id="5"></span> 
 *This unit is designed to provide insight into the process of public
 budgeting.  The politics of budgeting is used to establish the context

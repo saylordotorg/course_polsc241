@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC241: Introduction to Public Administration"
+course_description: "A detailed introduction to the role of the public bureaucracy in American society and the interplay of politics and public administration at the national, state, and local levels. Topics include ethics, organization theory and behavior, public policy formation, public management, administrative reform, and intergovernmental relations."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Public Management** <span id="4"></span> 
 *The traditional model of public administration – characterized by
 Weber’s theory of bureaucracy, Woodrow Wilson’s politics/administration

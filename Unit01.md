@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC241: Introduction to Public Administration"
+course_description: "A detailed introduction to the role of the public bureaucracy in American society and the interplay of politics and public administration at the national, state, and local levels. Topics include ethics, organization theory and behavior, public policy formation, public management, administrative reform, and intergovernmental relations."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Public Administration** <span id="1"></span> 
 *Because public organizations use public resources to make decisions
 that affect society, several important questions emerge in determining

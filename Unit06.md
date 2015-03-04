@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC241: Introduction to Public Administration"
+course_description: "A detailed introduction to the role of the public bureaucracy in American society and the interplay of politics and public administration at the national, state, and local levels. Topics include ethics, organization theory and behavior, public policy formation, public management, administrative reform, and intergovernmental relations."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Program Planning and Evaluation** <span id="6"></span> 
 *Taxpayers want to know if their money is producing a return on their
 investment in the “public good.”  The Government Performance Results Act
