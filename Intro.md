@@ -119,3 +119,4 @@ hours) on Tuesday and Wednesday nights; etc.
 - [Unit 5](https://legacy.saylor.org/polsc241/Unit05/)
 - [Unit 6](https://legacy.saylor.org/polsc241/Unit06/)
 - [Unit 7](https://legacy.saylor.org/polsc241/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC241/POLSC241-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC241/POLSC241-FinalExam-Answers.html)
