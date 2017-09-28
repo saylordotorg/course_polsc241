@@ -198,7 +198,7 @@ Upon successful completion of this unit, the student will be able to:
     Theory of Bureaucracy – Max Weber”**
     Link: University of Mumbai’s [“Unit 3: Working of Bureaucracy:
     Theory of Bureaucracy – Max
-    Weber”](http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
+    Weber”](https://web.archive.org/web/20150319001250/http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
       
      Instructions:  Please scroll down and read pages 23-30.  
       
@@ -301,7 +301,7 @@ id="4.2.1.2"></span> 
 **4.2.2 New Public Administration** <span id="4.2.2"></span> 
 -   **Reading: University of Mumbai’s “New Public Administration”**
     Link: University of Mumbai’s [“New Public
-    Administration”](http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
+    Administration”](https://web.archive.org/web/20150319001250/http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
       
      Instructions:  Please read Section 2.5 of Unit 2 on pages 19–22 of
     the document for material relevant to the sub-subunits 4.2.2.1 and
