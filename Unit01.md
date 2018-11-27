@@ -162,7 +162,7 @@ id="1.2.1"></span> 
 **1.2.4 The Refounding Movement** <span id="1.2.4"></span> 
 -   **Reading: Wikipedia’s “Refounding Public Administration”**
     Link: Wikipedia’s [“Refounding Public
-    Administration”](http://www.saylor.org/site/wp-content/uploads/2012/09/POLSC241_Wikipedia_Refounding-Public-Administration_9_17_2012.pdf) (PDF)  
+    Administration”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/POLSC241_Wikipedia_Refounding-Public-Administration_9_17_2012.pdf) (PDF)  
       
      Instructions: Please click on the link above, and read this
     description of the refounding movement.  
