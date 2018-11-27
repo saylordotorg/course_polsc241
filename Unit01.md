@@ -51,7 +51,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: University of Mumbai’s “Unit 1: An Introduction to Public
     Administration”**
     Link: University of Mumbai’s [“Unit 1: An Introduction to Public
-    Administration”](http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
+    Administration”](https://web.archive.org/web/20150319001250/http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
       
      Instructions:  Read Unit 1, pages 1–8.  
       
@@ -129,7 +129,7 @@ id="1.2.1"></span> 
 -   **Reading: University of Mumbai’s “Unit 2: Changing Nature of Public
     Administration”**
     Link: University of Mumbai’s [“Unit 2: Changing Nature of Public
-    Administration”](http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
+    Administration”](https://web.archive.org/web/20150319001250/http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
       
      Instructions:  Read pages 9–11.  
       
@@ -143,7 +143,7 @@ id="1.2.1"></span> 
 -   **Reading: University of Mumbai’s “Unit 2: Changing Nature of Public
     Administration”**
     Link: University of Mumbai’s [“Unit 2: Changing Nature of Public
-    Administration”](http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
+    Administration”](https://web.archive.org/web/20150319001250/http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
       
      Instructions:  Read pages 12–19.  
       
@@ -157,7 +157,7 @@ id="1.2.1"></span> 
 -   **Reading: University of Mumbai’s “Unit 2: Changing Nature of Public
     Administration”**
     Link: University of Mumbai’s [“Unit 2: Changing Nature of Public
-    Administration”](http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
+    Administration”](https://web.archive.org/web/20150319001250/http://www.mu.ac.in/myweb_test/SYBA%20Study%20Material/pol_sc-III.pdf) (PDF)  
       
      Instructions:  Read pages 19–23.  
       
@@ -169,7 +169,7 @@ id="1.2.1"></span> 
 **1.2.4 The Refounding Movement** <span id="1.2.4"></span> 
 -   **Reading: Wikipedia’s “Refounding Public Administration”**
     Link: Wikipedia’s [“Refounding Public
-    Administration”](http://www.saylor.org/site/wp-content/uploads/2012/09/POLSC241_Wikipedia_Refounding-Public-Administration_9_17_2012.pdf) (PDF)  
+    Administration”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/POLSC241_Wikipedia_Refounding-Public-Administration_9_17_2012.pdf) (PDF)  
       
      Instructions: Please click on the link above, and read this
     description of the refounding movement.  

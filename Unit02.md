@@ -117,7 +117,7 @@ id="2.1.1.2"></span> 
     “Chapter 14: The Bureaucracy”**
     Link: *American Government and Politics in the Information Age*:
     [“Chapter 14: The
-    Bureaucracy”](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf) (PDF)  
+    Bureaucracy”](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf) (PDF)  
       
      Instructions: Please visit section 14.1 and scroll down to the
     types of federal agencies, beginning with the section “Cabinet Level
